@@ -2,3 +2,4 @@
 是一个readme 文件
 小敏敏 我爱你
 xiao   xiao   min min
+Git is a free software ...
